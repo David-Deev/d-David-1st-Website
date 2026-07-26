@@ -187,9 +187,13 @@ section {
 }
 
 .hero-image {
-    width: 250 px;
-    height: 250 px;
+    width: 250 px !important;
+    height: 250 px !important;
     object-fit: contain;
     border-radius: 11px;
     border: 3px solid #443333;
+}
+
+html, body {
+    cursor: url('mec8.cur'), auto;
 }
