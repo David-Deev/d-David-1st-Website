@@ -229,7 +229,7 @@ html, body {
     margin: 6px 0;
 }
 
-.site-footer {
+.footer {
     background-color: #3c3b3b;
     color: #ffffff;
     text-align: center;
@@ -255,6 +255,6 @@ html, body {
     margin: 6px 0;
 }
 
-.site-footer a{
+.footer a{
     color: #ffffff;
 }
