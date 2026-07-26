@@ -27,7 +27,7 @@ body {
 
 #projects h2{
     margin-top: 0;
-    margin-bottom: 0 20px;
+    margin-bottom: 0px 20px;
 }
 
 
@@ -39,7 +39,7 @@ body {
     border-radius: 12px;
     border: 1px solid rgba(255, 255, 255, .03);
     margin: 0 auto 30px auto;
-    text-align: center;
+    text-align: left;
 }
 
 h1{
@@ -164,4 +164,31 @@ section {
 .github-btn {
     background-color: #191818; 
     color: white;
+}
+
+.hero-split-container {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.hero-left {
+    flex: 1.2;
+    text-align: left;
+}
+
+.hero-right {
+    flex: .8;
+    display: flex;
+    justify-content: center;
+}
+
+.hero-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 11px;
+    border: 3px solid #443333;
 }
