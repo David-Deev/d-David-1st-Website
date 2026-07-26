@@ -168,7 +168,7 @@ section {
 
 .hero-split-container {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     gap: 40px;
     max-width: 1000px;
     margin: 0 auto;
