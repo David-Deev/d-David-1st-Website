@@ -1,5 +1,9 @@
 # My First Coding Project
 
+<img width="1917" height="983" alt="Screenshot 2026-07-26 181210" src="https://github.com/user-attachments/assets/0dde387e-b6b4-4167-9443-9ebbb978a5a1" />
+
+**Website Link: https://david-deev.github.io/d-David-1st-Website/index.html#home**
+
 This is the README for my first coding project, which is a website. In this README I will try to describe all the features of my project so that people could replicate it and understand how I built it. Before I begin, I want to give https://stardance.hackclub.com/ a big shoutout!
 
 # Coding Languages Used:
@@ -10,7 +14,7 @@ If you don't know these coding languages, you should at least dip your toes in t
 
 # Features
 
-Here I will describe the main parts of my website and how I built them. 
+Here I will describe the main parts of my website and how I built them:
 ## **Different Pages**
 Includes the Home, Projects and Goals pages.
 These are created as seperate HTML files in the website file. They are then refered to each other through navigation  `<a>` anchors and `<href>` links between those pages.
