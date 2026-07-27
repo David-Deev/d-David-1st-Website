@@ -5,7 +5,6 @@ body {
     padding: 0;
     margin: 0;
    font-size: 24px;
-
    background: linear-gradient(124deg, #75c1da 0%, #42a38a 50%, #6bbe51 100%);
    background-size: 400% 400%;
    animation: meshFlow 13s ease infinite;
@@ -111,8 +110,8 @@ nav a{
 }
 
 section {
-    padding-top: 100px;
-    padding-bottom: 40px;
+    padding-top: 150px;
+    padding-bottom: 20px;
     padding-left: 20px;
     padding-right: 20px;
     min-height: 20vh;
